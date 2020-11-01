@@ -31,6 +31,8 @@ label start:
     e "aggiunta linea dialogo"
     
     e "seconda linea"
+     
+    e "terza linea"
 
     # This ends the game.
 
